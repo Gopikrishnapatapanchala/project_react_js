@@ -1,2 +1,2 @@
-# Autospot
+# project
 React.js Application
